@@ -1,6 +1,12 @@
 ugh
 ===
 
+A tinder client for people who think tinder is awful. This one will automatically reject anybody with an empty description, and show you the other people's descriptions, no photos, no names. If you match, you still need to use the regular mobile app to chat - this is *just* a tool for rejecting huge numbers of people in a small amount of time.
+
+Requires Python 2.7, that should be all.
+
+This is not user-friendly, *especially* not the setup process.
+
 
 Finding your User ID:
 ---------------------
